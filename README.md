@@ -35,8 +35,6 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 > Atuo com tecnologia desde 1985, começando como Digitador.  
 > Sou técnico em Análise de Processamento de Dados formado em 1989.  
 > Ao longo da carreira, trabalhei com diversas linguagens e bancos de dados, acompanhando toda a evolução da computação.  
-> Aos 57 anos, decidi me especializar em Inteligência Artificial, com estudos autodidatas e prática baseada em projetos reais.
-
 ---
 
 ## 📫 Contato
