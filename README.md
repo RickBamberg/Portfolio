@@ -11,8 +11,8 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 | Nº | Módulo                            | Status          |
 |----|-----------------------------------|-----------------|
 | 01 | [Especialista em Inteligencia Artificial](https://github.com/RickBamberg/Especialista-em-AI) | ✅ Concluído | 
-| 02 | [Analise de Dados](https://github.com/RickBamberg/Analise_de_Dados) | ✅ Concluído | 
-| 03 | [Pipeline de Engenharia de Dados com Databricks e PySpark](https://github.com/RickBamberg/Pipeline_de_Engenharia_de_Dados_com_Databricks_e_PySpark) | ✅ Concluído | 
+| 02 | [Ciência de Dados](https://github.com/RickBamberg/Ciencia_de_Dados) | ✅ Concluído | 
+| 03 | [Analise de Dados](https://github.com/RickBamberg/Analise_de_Dados) | ✅ Concluído | 
 | 04 | [Python](https://github.com/RickBamberg/Python) | ✅ Concluído | 
 | 05 | [Apresentações em Power BI](https://github.com/RickBamberg/Power_BI) | ✅ Concluído | 
 | 06 | [Projeto em Flask - RckTrader_Flask](https://github.com/RickBamberg/RickTrader_Flask) | ✅ Concluído | 
